@@ -1,0 +1,7 @@
+ Exceptions
+
+ V projektu by mělo být možné ukládat data o firmách, takže bude nuntné ošetřit zadávání vstupů.
+
+ Dále budou získávána data z externích zdrojů a mělo by se kontrolovat, jestli se k datům dá dostat. Navíc při moc dlouhém čekání dostávání se k datům by měl zvládnout program posunout dál s upozorněních, že se nelze spojit (ale popravdě přesně nevím, jak API v Pythonu funguje).
+
+ Výstupem aplikace může být seznam firem řazených dle určitých parametrů nahraný do .csv. Nemělo by se stát, že uživatel zadá neexistující parametr (třeba stát, který není v seznamu apod.
